@@ -1,0 +1,24 @@
+/*
+Theme Name: Veterna
+Description: Veterna is a WordPress theme designed for pet rescue, animal welfare, shelters, fundraisers, wildlife conservation, NGOs, NPOs, and other activism websites. Fully compatible with the WordPress Block Editor, this theme offers a professional design with a 100% responsive layout and is easy to customize, so no coding is required.
+Author: Jegtheme
+Author URI: https://support.jegtheme.com/
+Theme URI: https://fse.jegtheme.com/veterna/
+Version: 1.0.1
+Stable tag: 1.0.1
+Requires at least: 6.2
+Tested up to: 6.6
+Requires PHP: 7.4
+License: GNU General Public License v3 or later.
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: veterna
+Tags: block-patterns,custom-logo,custom-menu,editor-style,featured-images,full-site-editing
+Copyright: © Jegtheme. All rights reserved.
+*/
+
+:root{
+    
+}
+.editor-styles-wrapper .block-editor-block-list__layout.is-root-container > .block-library-block__reusable-block-container {
+    max-width: 100%;
+}

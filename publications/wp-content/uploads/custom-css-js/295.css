@@ -1,0 +1,325 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+html, body{
+	overflow-x: hidden !important;
+}
+/* Normal state */
+.mine-header {
+    position: relative;
+    width: 100%;
+    z-index: 9999;
+    transition: background 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Sticky state */
+.mine-header.is-sticky {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+        background-color: #f6f4ee !important;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+padding: 5px  !important;
+}
+
+/* Prevent layout jump */
+body.has-sticky-header {
+    padding-top: 20px; /* header height */
+}
+
+
+/* Header full width background */
+.mine-header {
+    width: 100% !important;
+    left: 0;
+    right: 0;
+}
+
+/* Constrain header content */
+.mine-header > .e-con-inner,
+.mine-header .e-con-boxed > .e-con-inner {
+    max-width: 1280px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    box-sizing: border-box;
+}
+
+/* Wrapper */
+.cf7-subscribe-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  max-width: 470px;
+}
+
+/* Email field */
+.cf7-email-field input {
+  width: 100%;
+  padding: 14px 18px;
+  font-size: 16px;
+  border-radius: 10px;
+  border: 1px solid #ddd;
+  background: #f7f4ef;
+  outline: none;
+}
+
+/* Remove CF7 default styles */
+.cf7-email-field input:focus {
+  border-color: #000;
+}
+
+/* Submit button */
+.cf7-submit-btn input {
+  padding: 14px 22px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #fff;
+  background: #111;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+/* Submit button base */
+.wpcf7-submit {
+  position: relative;
+  padding: 14px 50px 14px 22px; /* right space for icon */
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 10px;
+  background: #111;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+input.wpcf7-form-control.wpcf7-submit.has-spinner {
+    margin-top: 19px;
+}
+/* Hide spinner visually but keep functionality */
+.wpcf7-spinner {
+  display: none;
+}
+.subscribe-card {
+  box-shadow:
+    0 40px 80px rgba(0, 0, 0, 0.12),
+    0 12px 24px rgba(0, 0, 0, 0.08);
+
+  position: relative;
+}
+
+
+/* Base icon box transition */
+.freed-icon {
+  transition: transform 0.35s ease, box-shadow 0.35s ease;
+}
+
+/* Hover lift / grow effect */
+.freed-icon:hover {
+  transform: translateY(-9px) scale(1.00);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.12);
+}
+
+/* Icon background transition */
+.freed-icon .elementor-icon {
+  transition: background-color 0.35s ease, color 0.35s ease;
+}
+
+/* Change icon background on hover */
+.freed-icon:hover .elementor-icon {
+  background-color: #ae986133;
+}
+
+/* Optional: smooth SVG color */
+.freed-icon svg {
+  transition: fill 0.35s ease;
+}
+
+
+
+/*  Work Section  */
+.work-icon {
+    transition: transform 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+    border: 2px solid transparent; 
+}
+
+.work-icon:hover {
+    transform: scale(1.05);
+    border-color: #E5D7AE; /
+}
+.work-icon * {
+    transition: all 0.3s ease;
+}
+/* Parent container */
+.work-boxes {
+  position: relative;
+}
+
+.work-boxes::before {
+    content: "";
+    position: absolute;
+    top: 24%;
+    left: 288px;
+    width: 72%;
+    height: 1px;
+    background: rgba(218, 188, 126, 0.4);
+    transform: translateY(-50%);
+    z-index: 1;
+}
+
+.work-boxes > .work-icon {
+  position: relative;
+  z-index: 2;
+}
+/* Music card base */
+.music-card {
+  position: relative;
+  overflow: hidden;
+}
+
+/* Play button wrapper */
+.music-card .play-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.35);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+  z-index: 5;
+}
+
+/* Show on hover */
+.music-card:hover .play-overlay {
+  opacity: 1;
+  pointer-events: auto;
+border-radius: 10px;
+}
+
+/* Play button circle */
+.music-card .play-btn {
+    width: 60px;
+    height: 60px;
+  background: #d8c08a;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  transition: transform 0.25s ease;
+}
+
+.music-card .play-btn:hover {
+  transform: scale(1.1);
+}
+
+/* Play triangle */
+.music-card .play-btn::before {
+  content: "";
+  margin-left: 4px;
+  width: 0;
+  height: 0;
+  border-left: 18px solid #000;
+  border-top: 12px solid transparent;
+  border-bottom: 12px solid transparent;
+}
+/* Smooth grow effect */
+.music-card {
+  transition: transform 0.35s ease, box-shadow 0.35s ease;
+}
+
+/* Grow card on hover */
+.music-card:hover {
+  transform: scale(1.04);
+  z-index: 10;
+}
+.swiper-slide.xpro-testimonial-layout-1 {
+    padding: 0px;
+    background-color: transparent;
+}
+span.xpro-testimonial-quote {
+    background-color: #ae9861;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 18px;
+    position: absolute;
+    top: -15px;
+}
+.xpro-testimonial-slider
+ {
+    padding: 0px;
+    overflow: visible !important;
+}
+.xpro-testimonial-author {
+    border-top: 1px solid #cdcdcd;
+    padding-top: 10px;
+}
+/* Mobile responsive */
+@media (max-width: 600px) {
+  .cf7-subscribe-wrapper {
+    flex-direction: column;
+  }
+
+  .cf7-submit-btn input {
+    width: 100%;
+  }
+}
+
+
+/*******************************************************Detail page of songs  ******************************************/
+.music_player_left.mp_ar_tall, .album_featured_text {
+    display: none !important;
+}
+.swp_player_content.controls_on_right {
+    display: none !important;
+}
+.music_player_right {
+    width: 100% !important;
+    border-radius: 20px;
+	box-shadow: 0px 3px 11px 3px #ae986161;
+}
+.swp_player_title {
+    background: #f6f4eee6;
+    width: 3.5rem;
+    height: 3.5rem;
+    line-height: 3.5rem;
+    display: flex;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    color: #AE9861;
+    font-family: "Inter", Sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+}
+a.mpfe-sr-helper {
+    color: #AE9861;
+}
+
+@media only screen and (max-width: 767px){
+.work-boxes::before {
+              display: none !important;
+	}
+span.xpro-testimonial-quote{
+		left: 10px;
+	}
+.cf7-subscribe-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+}
+.cf7-email-field input{
+		 font-size: 14px;
+	 }
+
+.cf7-submit-btn input,.cf7-email-field input {
+    padding: 10px 14px;
+	font-size: 14px;
+	 }
+}</style>
+<!-- end Simple Custom CSS and JS -->
