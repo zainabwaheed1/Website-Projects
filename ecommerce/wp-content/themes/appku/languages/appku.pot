@@ -1,0 +1,1549 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Appku\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-29 10:57+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.1\n"
+"X-Domain: appku"
+
+#: inc/hooks/hooks-functions.php:247
+msgid " All Rights Reserved by"
+msgstr ""
+
+#: 404.php:24
+msgid " Back To Home"
+msgstr ""
+
+#: inc/hooks/hooks-functions.php:364
+msgid " Previus Post"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:324
+msgid "#"
+msgstr ""
+
+#: inc/appku-functions.php:424
+msgid "0"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:453
+#: inc/appku-framework/appku-options/appku-options.php:570
+#: inc/appku-framework/appku-options/appku-options.php:833
+msgid "1 Column"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:457
+#: inc/appku-framework/appku-options/appku-options.php:574
+#: inc/appku-framework/appku-options/appku-options.php:837
+msgid "2 Column Left"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:461
+#: inc/appku-framework/appku-options/appku-options.php:578
+#: inc/appku-framework/appku-options/appku-options.php:841
+msgid "2 Column Right"
+msgstr ""
+
+#: 404.php:21 inc/appku-framework/appku-options/appku-options.php:948
+msgid "404"
+msgstr ""
+
+#: templates/header-menu-bottom.php:185
+msgid "404 PAGE"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:939
+msgid "404 Page"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:1338
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:209
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:198
+#: inc/appku-framework/appku-options/appku-options.php:203
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: inc/redux-custom-field/appku-option-slide-add-field.php:317
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:258
+msgid "Add Another Social Profile"
+msgstr ""
+
+#: inc/appku-widgets-reg.php:28
+msgid "Add Blog Sidebar Widgets Here."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:1185
+msgid "Add Copyright Text"
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:116
+msgid "Add File"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:999
+msgid "Add Gallery Image"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:1000
+msgid "Add gallery Image and url."
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:230
+msgid "Add Image"
+msgstr ""
+
+#: inc/appku-widgets-reg.php:39
+msgid "Add Page Sidebar Widgets Here."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:1055
+msgid "Add social icon and url."
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:197
+msgid "Add Swap Image"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:261
+msgid "Admin Label"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:267
+msgid "Admin Login Logo"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:274
+msgid "Any CSS your write here will run in admin."
+msgstr ""
+
+#. Name of the theme
+msgid "Appku"
+msgstr ""
+
+#. Description of the theme
+msgid "Appku - Software Landing Page"
+msgstr ""
+
+#: inc/appku-framework/plugins-activation/appku-active-plugins.php:39
+msgid "Appku Core"
+msgstr ""
+
+#: inc/demo-data/demo-import.php:20
+msgid "Appku Demo"
+msgstr ""
+
+#: inc/demo-data/demo-import.php:63
+msgid "Appku Demo Import"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:1086
+msgid "appku Footer"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:85
+#: inc/appku-framework/appku-options/appku-options.php:86
+msgid "Appku Options"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:1186
+msgid "Appku."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:896
+msgid "Background"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:591
+msgid "Below Thumbnail"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:624
+msgid "Biography Info"
+msgstr ""
+
+#: templates/header-menu-bottom.php:159 templates/header-menu-bottom.php:168
+#: inc/appku-framework/appku-options/appku-options.php:418
+msgid "Blog"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:492
+msgid "Blog Custom Title"
+msgstr ""
+
+#: templates/header-menu-bottom.php:213
+msgid "Blog Details"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:599
+msgid "Blog Details Custom Title"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:665
+msgid "Blog Meta Hover Text Color"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:651
+msgid "Blog Meta Icon Color"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:658
+msgid "Blog Meta Text Color"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:474
+msgid "Blog Page Title"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:480
+msgid "Blog Page Title Setting"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:593
+msgid "Blog Post Title Position"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:499
+msgid "Blog Posts Excerpt"
+msgstr ""
+
+#: inc/appku-widgets-reg.php:26
+#: inc/appku-framework/appku-options/appku-options.php:856
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:530
+msgid "Blog Title Color"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:537
+msgid "Blog Title Hover Color"
+msgstr ""
+
+#: inc/redux-custom-field/extensions/box_shadow/box_shadow/field_box_shadow.php:285
+msgid "Blur"
+msgstr ""
+
+#: inc/redux-custom-field/extensions/box_shadow/box_shadow/field_box_shadow.php:283
+msgid "Blur Radius"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:721
+msgid "Box Shadow"
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:151
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:920
+msgid "Breadcrumb Active Color"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:912
+msgid "Breadcrumb Color"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:929
+msgid "Breadcrumb Divider Color"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:903
+msgid "Breadcrumb Hide/Show"
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:107
+msgid "Breadcumb Image"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:318
+#: inc/appku-framework/appku-options/appku-options.php:967
+msgid "Button Text"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:325
+msgid "Button URL?"
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:225
+msgid "Category Image"
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:214
+msgid "Category Metabox"
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:84
+msgid "check to display page breadcrumb area."
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:123
+msgid "check to display Page Title."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:427
+msgid ""
+"Choose blog layout from here. If you use this option then you will able to "
+"change three type of blog layout ( Default Left Sidebar Layour ). "
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:567
+msgid ""
+"Choose blog single page layout from here. If you use this option then you "
+"will able to change three type of blog single page layout ( Default Left "
+"Sidebar Layour ). "
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:930
+msgid "Choose breadcrumb divider color."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:921
+msgid ""
+"Choose page header breadcrumb text active color here.If you user this option "
+"then you will able to set page breadcrumb active color."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:913
+msgid ""
+"Choose page header breadcrumb text color here.If you user this option then "
+"you will able to set page breadcrumb color."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:829
+msgid ""
+"Choose your page layout. If you use this option then you will able to choose "
+"three type of page layout ( Default no sidebar ). "
+msgstr ""
+
+#: inc/appku-framework/plugins-activation/appku-active-plugins.php:67
+msgid "CMB2"
+msgstr ""
+
+#. Name of the template
+msgid "Coming Soon Page"
+msgstr ""
+
+#: inc/hooks/hooks-functions.php:443
+msgid "Comments are closed"
+msgstr ""
+
+#: inc/appku-framework/plugins-activation/appku-active-plugins.php:73
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:172
+msgid "Container"
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:173
+msgid "Container Fluid"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:625
+msgid ""
+"Control biography info from here. If you use this option then you will able "
+"to show or hide biography info ( Default setting Show )."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:481
+msgid ""
+"Control blog page title setting. If you use this option then you can able to "
+"show default or custom blog page title ( Default Blog )."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:475
+msgid ""
+"Control blog page title show / hide. If you use this option then you will "
+"able to show / hide your blog page title ( Default Setting Show )."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:594
+msgid "Control blog post title position from here."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:634
+msgid ""
+"Control post navigation from here. If you use this option then you will able "
+"to show or hide post navigation ( Default setting Show )."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:616
+msgid ""
+"Control post share options from here. If you use this option then you will "
+"able to show or hide post share options."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:512
+msgid "Control read more text from here."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:500
+msgid ""
+"Control the number of characters you want to show in the blog page for each "
+"post.. If you use this option then you can able to control your blog post "
+"characters from here ( Default show 10 )."
+msgstr ""
+
+#: inc/hooks/hooks-functions.php:247
+msgid "Copyright"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:1184
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:1229
+msgid "CSS Code"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:484
+#: inc/appku-framework/appku-options/appku-options.php:515
+msgid "Custom"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:1222
+msgid "Custom Css"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:273
+msgid "Custom CSS For admin"
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:145
+msgid "Custom Page Title"
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:139
+msgid "Custom Title"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:483
+#: inc/appku-framework/appku-options/appku-options.php:514
+msgid "Default"
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:138
+msgid "Default Title"
+msgstr ""
+
+#: inc/redux-custom-field/appku-option-slide-add-field.php:221
+#: inc/redux-custom-field/appku-option-slide-add-field.php:314
+msgid "Delete"
+msgstr ""
+
+#: inc/demo-data/demo-import.php:16
+msgid "Demo Preview Imgae"
+msgstr ""
+
+#: inc/redux-custom-field/appku-option-slide-add-field.php:203
+#: inc/redux-custom-field/appku-option-slide-add-field.php:298
+msgid "Description"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:1115
+#: inc/appku-framework/appku-options/appku-options.php:1171
+msgid "Disable"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:244
+#: inc/appku-framework/appku-options/appku-options.php:610
+#: inc/appku-framework/appku-options/appku-options.php:675
+#: inc/appku-framework/appku-options/appku-options.php:684
+#: inc/appku-framework/appku-options/appku-options.php:693
+#: inc/appku-framework/appku-options/appku-options.php:868
+msgid "Disabled"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:1244
+msgid "Documentation"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:401
+msgid "Dropdown Menu Color"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:408
+msgid "Dropdown Menu Hover Color"
+msgstr ""
+
+#: inc/appku-functions.php:206
+msgid "Edit"
+msgstr ""
+
+#: inc/appku-framework/plugins-activation/appku-active-plugins.php:53
+msgid "Elementor"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:243
+#: inc/appku-framework/appku-options/appku-options.php:609
+#: inc/appku-framework/appku-options/appku-options.php:674
+#: inc/appku-framework/appku-options/appku-options.php:683
+#: inc/appku-framework/appku-options/appku-options.php:692
+#: inc/appku-framework/appku-options/appku-options.php:867
+#: inc/appku-framework/appku-options/appku-options.php:1114
+#: inc/appku-framework/appku-options/appku-options.php:1170
+msgid "Enabled"
+msgstr ""
+
+#: inc/appku-functions.php:434
+msgid "Enter"
+msgstr ""
+
+#: inc/appku-functions.php:433
+msgid "Enter Password"
+msgstr ""
+
+#: inc/appku-breadcrumbs.php:129
+msgid "Error 404"
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:219
+msgid "Extra Info"
+msgstr ""
+
+#: inc/redux-custom-field/appku-option-slide-add-field.php:199
+msgid "Facts Number"
+msgstr ""
+
+#: inc/redux-custom-field/appku-option-slide-add-field.php:294
+msgid "Facts number"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:1117
+msgid ""
+"First make your footer from footer custom types then select it from here."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:1084
+msgid "Footer"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:1177
+msgid "Footer Bottom Background Color"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:1168
+msgid "Footer Bottom?"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:1101
+#: inc/appku-framework/appku-options/appku-options.php:1104
+msgid "Footer Builder"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:1200
+msgid "Footer Copyright Ancor Color"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:1208
+msgid "Footer Copyright Ancor Hover Color"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:1192
+msgid "Footer Copyright Text Color"
+msgstr ""
+
+#: inc/theme-setup.php:38
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/appku-widgets-reg.php:49
+msgid "Footer Widgets Area 1"
+msgstr ""
+
+#: inc/appku-widgets-reg.php:57
+msgid "Footer Widgets Area 2"
+msgstr ""
+
+#: inc/appku-widgets-reg.php:65
+msgid "Footer Widgets Area 3"
+msgstr ""
+
+#: inc/appku-widgets-reg.php:73
+msgid "Footer Widgets Area 4"
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:174
+msgid "Fullwidth"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:992
+msgid "Gallery"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:217
+msgid "General"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:317
+msgid "Get Started"
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:101
+msgid "Global Settings"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:759
+#: inc/appku-framework/appku-options/appku-options.php:874
+msgid "H1"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:760
+#: inc/appku-framework/appku-options/appku-options.php:875
+msgid "H2"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:761
+#: inc/appku-framework/appku-options/appku-options.php:876
+msgid "H3"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:762
+#: inc/appku-framework/appku-options/appku-options.php:877
+msgid "H4"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:763
+#: inc/appku-framework/appku-options/appku-options.php:878
+msgid "H5"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:764
+#: inc/appku-framework/appku-options/appku-options.php:879
+msgid "H6"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:286
+#: inc/appku-framework/appku-options/appku-options.php:309
+msgid "Header"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:297
+msgid "Header Builder"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:332
+msgid "Header Logo"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:380
+msgid "Header Menu"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:299
+msgid "Header Options"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:473
+#: inc/appku-framework/appku-options/appku-options.php:618
+#: inc/appku-framework/appku-options/appku-options.php:627
+#: inc/appku-framework/appku-options/appku-options.php:636
+#: inc/appku-framework/appku-options/appku-options.php:715
+#: inc/appku-framework/appku-meta/appku-config.php:90
+#: inc/appku-framework/appku-meta/appku-config.php:129
+msgid "Hide"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:904
+msgid ""
+"Hide / Show breadcrumb from all pages and posts ( Default settings hide )."
+msgstr ""
+
+#: inc/appku-breadcrumbs.php:27
+msgid "Home"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://angfuzsoft.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://angfuzsoft.com/themeforest/wordpress/appku/"
+msgstr ""
+
+#: inc/redux-custom-field/appku-option-slide-add-field.php:186
+#: inc/redux-custom-field/appku-option-slide-add-field.php:282
+msgid "Icon"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:1071
+msgid "Icon (example: fa fa-facebook) "
+msgstr ""
+
+#: inc/redux-custom-field/appku-option-slide-add-field.php:127
+#: inc/redux-custom-field/appku-option-slide-add-field.php:234
+msgid "image"
+msgstr ""
+
+#: inc/demo-data/demo-import.php:64
+msgid "Import Demo Data"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:268
+msgid "It belongs to the back-end of your website to log-in to admin panel."
+msgstr ""
+
+#: templates/content-none.php:51
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:426
+#: inc/appku-framework/appku-options/appku-options.php:566
+msgid "Layout"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:434
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:340
+msgid "Logo"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:348
+msgid "Logo Dimensions (Width/Height)."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:359
+msgid "Logo Top and Bottom Margin."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:1029
+msgid "Mailchimp API Key"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:1035
+msgid "Mailchimp List ID"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:387
+msgid "Menu Color"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:394
+msgid "Menu Hover Color"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:643
+msgid "Meta Data"
+msgstr ""
+
+#: inc/redux-custom-field/appku-option-slide-add-field.php:77
+#: inc/redux-custom-field/appku-option-slide-add-field.php:228
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: inc/hooks/hooks-functions.php:369
+msgid "Next Post "
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:430
+msgid "No Sidebar"
+msgstr ""
+
+#: templates/content-none.php:34
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/redux-custom-field/extensions/box_shadow/box_shadow/field_box_shadow.php:243
+msgid "Offset X"
+msgstr ""
+
+#: inc/redux-custom-field/extensions/box_shadow/box_shadow/field_box_shadow.php:263
+msgid "Offset Y"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:590
+msgid "On Header"
+msgstr ""
+
+#: inc/appku-framework/plugins-activation/appku-active-plugins.php:47
+msgid "One Click Demo Importer"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:955
+msgid "Oops! That page can't be found."
+msgstr ""
+
+#: 404.php:22
+msgid "Oops! That page can’t be found"
+msgstr ""
+
+#: inc/redux-custom-field/extensions/box_shadow/box_shadow/field_box_shadow.php:326
+msgid "Opacity"
+msgstr ""
+
+#: inc/redux-custom-field/extensions/box_shadow/box_shadow/field_box_shadow.php:324
+msgid "Opacity .1 - 1"
+msgstr ""
+
+#: inc/appku-functions.php:123
+#: inc/appku-framework/appku-options/appku-options.php:821
+msgid "Page"
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:83
+msgid "Page Breadcrumb Area"
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:96
+msgid "Page Breadcrumb Settings"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:960
+msgid "Page Description"
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:160
+msgid "Page Layout"
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:77
+msgid "Page Meta"
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:102
+msgid "Page Settings"
+msgstr ""
+
+#: inc/appku-widgets-reg.php:37
+#: inc/appku-framework/appku-options/appku-options.php:855
+msgid "Page Sidebar"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:953
+msgid "Page Subtitle"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:946
+#: inc/appku-framework/appku-meta/appku-config.php:122
+msgid "Page Title"
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:134
+msgid "Page Title Settings"
+msgstr ""
+
+#: inc/appku-functions.php:119
+msgid "Pages:"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:1230
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:984
+msgid "Pick a subtitle color"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:976
+msgid "Pick a title color"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:680
+msgid "Post Admin"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:448
+msgid "Post Column"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:671
+msgid "Post Date"
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:63
+msgid "Post Format Audio"
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:57
+msgid "Post Format Video"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:633
+msgid "Post Navigation"
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:52
+msgid "Post Thumb Controller"
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:69
+msgid "Post Thumbnail For Slider"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:689
+msgid "Post View Count"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:1102
+msgid "Pre-built Footer"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:1092
+msgid "Pre-built Footer / Footer Builder"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:296
+msgid "Prebuilt"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:233
+#: inc/appku-framework/appku-options/appku-options.php:240
+msgid "Preloader"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:250
+msgid "Preloader Image"
+msgstr ""
+
+#: inc/theme-setup.php:37
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:188
+msgid "Product Swap Image"
+msgstr ""
+
+#: inc/redux-custom-field/appku-option-slide-add-field.php:168
+msgid "Progress"
+msgstr ""
+
+#: inc/redux-custom-field/appku-option-slide-add-field.php:263
+msgid "progress"
+msgstr ""
+
+#: inc/hooks/hooks-functions.php:693 inc/hooks/hooks-functions.php:696
+msgid "Read More"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:543
+msgid "Read More Button Color"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:550
+msgid "Read More Button Hover Color"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:522
+msgid "Read More Text"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:511
+msgid "Read More Text Setting"
+msgstr ""
+
+#: templates/content-none.php:38
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/appku-framework/plugins-activation/appku-active-plugins.php:60
+msgid "Redux Framework"
+msgstr ""
+
+#: inc/redux-custom-field/appku-option-slide-add-field.php:146
+#: inc/redux-custom-field/appku-option-slide-add-field.php:244
+msgid "Remove"
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:259
+msgid "Remove Social Profile"
+msgstr ""
+
+#: coming-soon.php:22 inc/appku-framework/appku-options/appku-options.php:969
+msgid "Return To Home"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:438
+msgid "Right Sidebar"
+msgstr ""
+
+#. If there are characters in your language that are not supported
+#. by Libre Franklin, translate this to 'off'. Do not translate into your own language.
+#: inc/essential-scripts.php:118
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#: searchform.php:17
+msgid "Search Here"
+msgstr ""
+
+#: inc/redux-custom-field/appku-option-slide-add-field.php:189
+#: inc/redux-custom-field/appku-option-slide-add-field.php:285
+msgid "Search icon..."
+msgstr ""
+
+#: templates/header-menu-bottom.php:177
+msgid "Search Result"
+msgstr ""
+
+#: inc/appku-breadcrumbs.php:127
+msgid "Search results for: "
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:1337
+msgid "Section via hook"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:1116
+msgid "Select Footer"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:300
+msgid "Select header options."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:310
+msgid "Select header."
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:265
+msgid "Select Icon"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:828
+msgid "Select layout"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:883
+msgid ""
+"Select page title tag. If you use this option then you can able to change "
+"title tag H1 - H6 ( Default tag H1 )"
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:152
+msgid "Select Show to display breadcrumb area"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:449
+msgid ""
+"Select your blog post column from here. If you use this option then you will "
+"able to select three type of blog post layout ( Default Two Column )."
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:39
+msgid "Service Page Controller"
+msgstr ""
+
+#. Name of the template
+msgid "Service Single"
+msgstr ""
+
+#: inc/appku-widgets-reg.php:81
+msgid "Service Widgets Area"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:666
+msgid "Set Blog Meta Hover Text Color."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:652
+msgid "Set Blog Meta Icon Color."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:659
+msgid "Set Blog Meta Text Color."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:493
+msgid ""
+"Set blog page custom title form here. If you use this option then you will "
+"able to set your won title text."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:531
+msgid "Set Blog Title Color."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:538
+msgid "Set Blog Title Hover Color."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:319
+msgid "Set Button Text"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:968
+msgid "Set Button Text "
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:326
+msgid "Set Button URL Here"
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:226
+msgid "Set Category Image"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:1201
+msgid "Set footer copyright ancor color"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:1209
+msgid "Set footer copyright ancor Hover color"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:1193
+msgid "Set footer copyright text color"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:350
+msgid "Set logo dimensions to choose width, height, and unit."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:362
+msgid "Set logo top and bottom margin."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:1030
+msgid "Set mailchimp api key."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:1036
+msgid "Set mailchimp list id."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:388
+#: inc/appku-framework/appku-options/appku-options.php:402
+msgid "Set Menu Color"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:395
+#: inc/appku-framework/appku-options/appku-options.php:409
+msgid "Set Menu Hover Color"
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:168
+msgid ""
+"Set page layout container,container fluid,fullwidth or both. It's work only "
+"in template builder page."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:852
+msgid ""
+"Set page sidebar. If you use this option then you will able to set three "
+"type of sidebar ( Default no sidebar )."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:954
+#: inc/appku-framework/appku-options/appku-options.php:961
+msgid "Set Page Subtitle "
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:947
+msgid "Set Page Title"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:251
+msgid "Set Preloader Image."
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:189
+msgid "Set Product Swap Image"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:523
+msgid ""
+"Set read moer text here. If you use this option then you will able to set "
+"your won text."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:544
+msgid "Set Read More Button Color."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:551
+msgid "Set Read More Button Hover Color."
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:271
+msgid "Set social profile link."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:226
+msgid "Set Theme Color"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:890
+msgid "Set Title Color"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:804
+msgid "Set Widget Anchor Color."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:811
+msgid "Set Widget Anchor Hover Color."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:797
+msgid "Set Widget Text Color."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:790
+msgid "Set Widget Title Color."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:898
+msgid ""
+"Setting page header background. If you use this option then you will able to "
+"set Background Color, Background Image, Background Repeat, Background Size, "
+"Background Attachment, Background Position."
+msgstr ""
+
+#: inc/redux-custom-field/extensions/box_shadow/box_shadow/field_box_shadow.php:370
+#: inc/redux-custom-field/extensions/box_shadow/box_shadow/field_box_shadow.php:371
+msgid "Shadow Color"
+msgstr ""
+
+#: inc/redux-custom-field/extensions/box_shadow/box_shadow/field_box_shadow.php:417
+msgid "Shadow Preview"
+msgstr ""
+
+#: inc/redux-custom-field/extensions/box_shadow/box_shadow/field_box_shadow.php:388
+#: inc/redux-custom-field/extensions/box_shadow/box_shadow/field_box_shadow.php:389
+#: inc/redux-custom-field/extensions/box_shadow/box_shadow/field_box_shadow.php:390
+msgid "Shadow Type"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:615
+msgid "Share Options"
+msgstr ""
+
+#: inc/hooks/hooks-functions.php:387
+msgid "Share:"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:472
+#: inc/appku-framework/appku-options/appku-options.php:617
+#: inc/appku-framework/appku-options/appku-options.php:626
+#: inc/appku-framework/appku-options/appku-options.php:635
+#: inc/appku-framework/appku-options/appku-options.php:714
+#: inc/appku-framework/appku-meta/appku-config.php:89
+#: inc/appku-framework/appku-meta/appku-config.php:128
+msgid "Show"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:700
+msgid "Sidebar Options"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:851
+msgid "Sidebar Settings"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:558
+msgid "Single Blog Page"
+msgstr ""
+
+#: inc/redux-custom-field/appku-option-slide-add-field.php:72
+msgid "Slide"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:1046
+#: inc/appku-framework/appku-options/appku-options.php:1049
+msgid "Social"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:1072
+msgid "Social Icon Class"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:1073
+msgid "Social Icon Title"
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:246
+#: inc/appku-framework/appku-meta/appku-config.php:255
+msgid "Social Profile"
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:273
+msgid "Social Profile link"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:1054
+msgid "Social Profile Links"
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:257
+msgid "Social Profile {#}"
+msgstr ""
+
+#: 404.php:23
+msgid "Sorry, but the page you are looking for does not existing"
+msgstr ""
+
+#: templates/content-none.php:42
+msgid ""
+"Sorry, We could not find any results for your search. You can give it "
+"another try through the search form below. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/redux-custom-field/extensions/box_shadow/box_shadow/field_box_shadow.php:305
+msgid "Spread"
+msgstr ""
+
+#: inc/redux-custom-field/extensions/box_shadow/box_shadow/field_box_shadow.php:303
+msgid "Spread Radius"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:1021
+msgid "Subscribe"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:983
+msgid "Subtitle Color"
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:180
+msgid "Swap Image"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:865
+msgid ""
+"Switch enabled to display page title. Fot this option you will able to show "
+"/ hide page title.  Default setting Enabled"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:241
+msgid "Switch Enabled to Display Preloader."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:681
+msgid "Switch On to Display Post Admin."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:672
+msgid "Switch On to Display Post Date."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:690
+msgid "Switch On to Display Post View Counter."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:607
+msgid "Switch On to Display Tags."
+msgstr ""
+
+#: templates/content-single.php:84
+msgid "Tag: "
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:606
+msgid "Tags"
+msgstr ""
+
+#: templates/content-single.php:82
+msgid "Tags: "
+msgstr ""
+
+#. Name of the template
+msgid "Template Builder"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:371
+msgid "Text Logo"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:225
+msgid "Theme Color"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:197
+msgid "Theme Information 1"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:202
+msgid "Theme Information 2"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:600
+msgid "This title will show in Breadcrumb title."
+msgstr ""
+
+#: inc/redux-custom-field/appku-option-slide-add-field.php:158
+#: inc/redux-custom-field/appku-option-slide-add-field.php:254
+#: inc/appku-framework/appku-options/appku-options.php:864
+msgid "Title"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:889
+#: inc/appku-framework/appku-options/appku-options.php:975
+msgid "Title Color"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:882
+msgid "Title Tag"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:962
+msgid ""
+"Unfortunately, something went wrong and this page does not exist. Try using "
+"the search or return to the previous page."
+msgstr ""
+
+#: inc/redux-custom-field/extensions/box_shadow/box_shadow/field_box_shadow.php:339
+#: inc/redux-custom-field/extensions/box_shadow/box_shadow/field_box_shadow.php:340
+#: inc/redux-custom-field/extensions/box_shadow/box_shadow/field_box_shadow.php:341
+#: inc/redux-custom-field/extensions/box_shadow/box_shadow/field_box_shadow.php:341
+msgid "Units"
+msgstr ""
+
+#: inc/redux-custom-field/appku-option-slide-add-field.php:139
+#: inc/redux-custom-field/appku-option-slide-add-field.php:242
+msgid "Upload"
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:108
+msgid "Upload an image or enter an URL."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:342
+msgid "Upload your site logo for header ( recommendation png format )."
+msgstr ""
+
+#: inc/redux-custom-field/appku-option-slide-add-field.php:207
+#: inc/redux-custom-field/appku-option-slide-add-field.php:301
+msgid "URL"
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:64
+msgid "Use This Field When Post Format Audio"
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:58
+msgid "Use This Field When Post Format Video"
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:70
+msgid "Use This Field When You Want A Slider In Post Thumbnail"
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:240
+msgid "User Profile Metabox"
+msgstr ""
+
+#. Author of the theme
+#: inc/hooks/hooks-functions.php:247
+#: inc/appku-framework/appku-options/appku-options.php:1186
+msgid "Validthemes"
+msgstr ""
+
+#: coming-soon.php:20
+msgid "Website Under Construction"
+msgstr ""
+
+#: coming-soon.php:21
+msgid ""
+"Website Under Construction. Work Is Going On For The Website Please Stay "
+"With Us."
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:803
+msgid "Widget Anchor Color"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:749
+msgid "Widget Border"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:810
+msgid "Widget Hover Color"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:731
+msgid "Widget Margin"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:740
+msgid "Widget Padding"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:796
+msgid "Widget Text Color"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:789
+msgid "Widget Title Color"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:772
+msgid "Widget Title Margin"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:780
+msgid "Widget Title Padding"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:767
+msgid "Widget Title Tag"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:707
+msgid "Widgets Background Color"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:713
+msgid "Widgets Custom Box Shadow/Padding/Margin/border"
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:44
+msgid "Write Flaticon Class"
+msgstr ""
+
+#: inc/appku-framework/appku-meta/appku-config.php:45
+msgid "Write Flaticon Class For The Icon"
+msgstr ""
+
+#: inc/wp-html-helper.php:201 inc/wp-html-helper.php:264
+#: inc/wp-html-helper.php:323
+msgid "Write Something"
+msgstr ""
+
+#: inc/appku-framework/appku-options/appku-options.php:372
+msgid ""
+"Write your logo text use as logo ( You can use span tag for text color )."
+msgstr ""
+
+#: inc/redux-custom-field/extensions/box_shadow/box_shadow/field_box_shadow.php:245
+msgid "X"
+msgstr ""
+
+#: inc/redux-custom-field/extensions/box_shadow/box_shadow/field_box_shadow.php:265
+msgid "Y"
+msgstr ""
+
+#: inc/appku-functions.php:212
+msgid "Your comment is awaiting moderation."
+msgstr ""

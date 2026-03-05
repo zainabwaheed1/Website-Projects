@@ -1,0 +1,55 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.list_footer_items ul.elementor-icon-list-items.elementor-inline-items li:not(:last-child) {
+    border-right: 1px solid #bebebe;
+    padding-right: 30px;
+    padding-left: 10px;
+    height: 25px;
+}
+
+
+.list_footer_items ul li:last-child {
+    padding-left: 10px;
+	height: 25px;
+}
+a.footer_contact_info {
+    word-break: break-word;
+    font-size: 14px;
+    font-family: Montserrat,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+    /* font-weight: unset; */
+    font-weight: 400;
+    color: #8A8A8A;
+}
+.list_footer_items1 ul li:last-child {
+    padding-left: 10px;
+	height: 25px;
+}
+.list_footer_items1 ul.elementor-icon-list-items.elementor-inline-items li:not(:last-child) {
+    border-right: 2px solid #bebebe;
+    padding-right: 30px;
+    padding-left: 10px;
+    height: 25px;
+}
+
+#join-form form p {
+	margin-bottom:0px !important;
+}
+.list_footer_items  ul.elementor-icon-list-items li a span:hover,
+.footer_li_items ul.elementor-icon-list-items li a span:hover{
+    color: #005f9e !important;
+}
+.list_footer_items1  ul.elementor-icon-list-items li a span:hover{
+    color: white !important;
+}
+.social_media_icons a img:hover {
+    background: white;
+    border-radius: 50%;
+}
+@media screen and(max-width:767px){
+	#join-form {
+    margin-left: 25px !important;
+    margin-right: 25px !important;
+  }
+}
+</style>
+<!-- end Simple Custom CSS and JS -->

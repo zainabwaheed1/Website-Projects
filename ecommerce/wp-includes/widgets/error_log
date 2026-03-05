@@ -1,0 +1,28 @@
+[05-Mar-2025 19:27:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/softcrei/ezylo.uk/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/softcrei/ezylo.uk/wp-includes/widgets/class-wp-widget-block.php on line 17
+[10-Mar-2025 22:18:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/softcrei/ezylo.uk/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/softcrei/ezylo.uk/wp-includes/widgets/class-wp-widget-block.php on line 17
+[11-Mar-2025 11:12:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/softcrei/ezylo.uk/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/softcrei/ezylo.uk/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Mar-2025 09:12:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/softcrei/ezylo.uk/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/softcrei/ezylo.uk/wp-includes/widgets/class-wp-widget-block.php on line 17
+[28-Mar-2025 03:12:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/softcrei/ezylo.uk/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/softcrei/ezylo.uk/wp-includes/widgets/class-wp-widget-block.php on line 17
+[15-Apr-2025 01:14:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/softcrei/ezylo.uk/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/softcrei/ezylo.uk/wp-includes/widgets/class-wp-widget-block.php on line 17
+[17-Apr-2025 00:51:05 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/softcrei/ezylo.uk/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/softcrei/ezylo.uk/wp-includes/widgets/class-wp-widget-block.php on line 17

@@ -1,0 +1,58 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+nav.navbar.validnavs li.dropdown ul.dropdown-menu {
+    background: #323e6dd6 none repeat scroll 0 0;
+    border: 1px solid white;
+    border-radius: 2px;
+    box-shadow: var(--box-shadow-extra);
+    padding: 10px;
+	color: white;
+    width: 250px;
+	
+} 
+#menu-ai-landing-page li a {
+    color: white;
+}
+
+.no-background .navbar-brand > img {
+    display: block;
+    height: 36px;
+}
+.bg-nav .sticked{
+	position: fixed !important;
+	z-index: 100 !important;
+}
+/*request demo header logo  */
+.secondry-menu-wrapper.navbar-fixed-secondry .navbar-brand > img {
+    height: 33px !important;
+}
+nav.navbar.mobile-sidenav.attr-border.navbar-sticky.navbar-default.validnavs.navbar-fixed.dark.no-background.onepage-nav.on.no-full.sticked {
+    background-color: #2F609F;
+    box-shadow: 0px 0px 7px 0px #ffffff8f;
+	padding: 6px !important;
+}
+.saleh-top-nav.main-web-menu nav.navbar.mobile-sidenav.attr-border.navbar-sticky.navbar-default.validnavs.navbar-fixed.dark.no-background.onepage-nav.on.no-full.sticked {
+    background-color: #fff;
+}
+
+.navbar mobile-sidenav attr-border navbar-sticky navbar-default validnavs navbar-fixed dark no-background onepage-nav on no-full sticked{
+	background-color: #012a54;
+    box-shadow: 0px 0px 0px 0.5px;
+	padding: 6px !important;
+}
+#saleh-chat{
+	margin-top:65px;
+}
+@media screen and (max-width:991px){
+#menu-ai-landing-page li a {
+    color: #232323;
+	}
+nav.navbar.validnavs ul.nav li.dropdown ul.dropdown-menu li a::before, .ai-chatbots a::before, #menu-item-11341 a::before{
+	width: 0px !important;
+	height: 0px !important;
+}
+li#menu-item-11074 {
+    margin-left: 0px !important;
+}
+}</style>
+<!-- end Simple Custom CSS and JS -->

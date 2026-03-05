@@ -1,0 +1,20 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.hr-one-top-wrapper .banner-area.bg-top{
+	padding-top: 0px !important;
+}
+.hr-one-top-wrapper .banner-area.auto-height .content-box{
+	padding-top: 40px !important
+}
+
+.page-id-6079 .secondry-menu-wrapper{
+	top: 0px !important;
+	z-index: 999;
+}
+.page-id-6079 .secondry-menu-wrapper .navbar,
+.page-id-9358 .secondry-menu-wrapper .navbar{
+	background-color: #fff !important;
+}
+
+</style>
+<!-- end Simple Custom CSS and JS -->

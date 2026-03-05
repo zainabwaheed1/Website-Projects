@@ -1,0 +1,390 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.testimonial-items{
+	min-height: 386px;
+}
+.footer-link.quick-link {
+    margin-left: 50px;
+}
+.footer-link.footer-link2 {
+    margin-left: -50px;
+}
+.footer-img img{
+	width: 48% !important;
+}
+.seperator-1{
+	margin-top: 10px;
+	width: 1px !important;
+    height: 101px;
+    background-color: black;
+}
+.seperator-2{
+	margin-top: 10px;
+	width: 1px !important;
+    height: 132px;
+    background-color: black;
+}
+.quick-list-1{
+	padding-left: 4%;
+}
+.quick-list-2{
+		padding-left: 4%;
+}
+.footer-heading-1{
+	margin-left: -9%;
+}
+.footer-heading-2{
+	margin-left: -4%;
+}
+/* AI responsiveness Media queries  */
+@media screen and (min-width:1024px) and (max-width:1100px){
+	nav.validnavs .container{
+		max-width: 1140px;
+	}
+	.Ai_banner .elementor-section.elementor-section-height-full {
+    	height: 70vh !important;
+ 	}
+	.transparent-nav .no-background .navbar-brand > img {
+    	height: 38px !important;
+	}
+	.button-group-wrapper .get-started-btn {
+    	padding: 7px 10px !important;
+	}
+	.title-effect img{
+		display: none;
+	}
+	.title-effect {
+		padding: 6px 18px;
+    	margin: 0 9px;
+	}
+	.set_bg_img.ai-hero .banner-area.bg-top .col-lg-8.offset-lg-2.info {
+    	width: 525px;
+    	margin-left: 4%;
+	}
+	.banner-area h2{
+		font-size: 24px;
+	}
+	.set_bg_img.ai-hero{
+		margin-right: 0px !important;
+	}
+	.ai-bot .banner-area h2 strong {
+    	margin-left: -50px !important;
+	}
+	nav.navbar.validnavs.navbar-fixed.no-background {
+    	padding-top: 4px !important;
+	}
+	.service-box > div.elementor-widget-container{
+		min-height: 198px;
+	}
+}
+/* AI responsiveness Media queries  */
+@media screen and (min-width:1025px) and (max-width:1200px){
+	.Ai_banner .elementor-widget-container {
+    	margin: 0px !important;	
+  	}
+  	.effect2.rotate-effect img {
+		right: 30px !important;
+		width: 100px !important;
+		bottom: -12px !important;
+  	}
+	.testimonials-area .item .info {
+    	margin-bottom: 40px !important;
+  	}
+	.effect1.rotate-effect img {
+		left: 18px !important;
+		width: 100px !important;
+		top:-22px !important;
+	}
+}
+
+@media screen and (max-width:1024px){
+	.nav-fixed-wrapper nav{ position: fixed !important;}
+	.title-effect img{
+		display: none;
+	}
+}
+@media screen and (min-width:992px) and (max-width:1024px){
+	.no-background .navbar-brand > img{
+		height: 43px;
+	}
+	nav.navbar.validnavs .navbar-collapse.collapse img{
+		height: 47px;
+	}
+ 	a.navbar-brand {
+    	left: 7% !important;
+	}
+	.ai_product_page {
+    	padding-left: 20px !important;
+ 	}
+	.testimonial-items{
+		 min-height: 370px;
+	}
+ 	.Ai_banner .elementor-section.elementor-section-height-full {
+    	height: 44vh !important;
+ 	}
+    .Ai_banner .elementor-widget-container {
+    	margin: 0px !important;
+  	}
+  	.effect2.rotate-effect img {
+		right: 30px !important;
+		width: 100px !important;
+		bottom: -12px !important;
+  	}
+	.testimonials-area .item .info {
+    	margin-bottom: 40px !important;
+  	}
+	.effect1.rotate-effect img {
+    	left: 18px !important;
+    	width: 100px !important;
+		top:-22px !important;
+  	}
+  	.testimonials-area .item .info::after {
+    	bottom: 153px !important;
+    	left: 44% !important;
+  	}
+	.newsform-wrapper .title-1 h2.elementor-heading-title{
+		font-size: 22px !important;
+	}
+	.service-box > div.elementor-widget-container{
+		min-height: 198px;
+	}
+	nav.navbar.validnavs ul.nav li.dropdown ul.dropdown-menu li a{
+		color: #232323 !important;
+	}
+	.quick-list-1.social-list {
+    	padding-left: 0px;
+	}
+}
+@media screen and (min-width:768px) and (max-width:790px){
+	#ai_auto_box > div {
+    	height: 172px !important;
+  	}
+}
+@media screen and (min-width:768px) and (max-width:991px){
+	.set_bg_img.ai-hero{
+		margin-bottom: 30px !important;
+	}
+	nav.validnavs .container{
+		max-width: 1024px;
+	}
+	.no-background .navbar-brand > img{
+		height: 43px;
+	}
+	nav.navbar.validnavs .navbar-collapse.collapse img{
+		height: 47px;
+	}
+	a.navbar-brand {
+    	left: 1% !important;
+	}
+	nav.navbar.validnavs.no-background .navbar-toggle {
+    	margin-right: 15px;
+	}
+	.transparent-nav nav.navbar.validnavs.no-background > div.container,
+	.saleh-top-nav nav.navbar.validnavs.no-background > div.container{
+		flex-direction: row-reverse;
+	}
+	.secondry-menu-wrapper {
+    	top: 54px !important;
+	}
+	.secondry-menu-wrapper.navbar-fixed-secondry{
+		top: 0px !important;
+	}
+	.footer-link.quick-link {
+		margin-left: 0px;
+	}
+	.footer-link.footer-link2 {
+		margin-left: 0px;
+	}
+	.testimonial-items{
+		min-height: 308px;
+		margin-top: -54px;
+	}
+/* 	.testimonials-area .item .info::after {
+        bottom: 153px !important;
+       left: 44% !important;
+     }  */
+	.ai_banner_img img.attachment-large.size-large.wp-image-11286 {
+		width: 350px;
+		margin-right: 0px;
+    }
+	.Ai_banner .elementor-section.elementor-section-height-full {
+    	height: 50vh !important;
+   	}
+	.effect2.rotate-effect img {
+		position: absolute;
+		right: 90px !important;
+		bottom: 0px !important;
+		width: 100px !important;
+	 }
+	.effect1.rotate-effect img {
+		position: absolute;
+		left: -38px !important;
+		top: -36px !important;
+		width: 100px !important;
+	 }
+	nav.navbar.validnavs ul.nav li.dropdown ul.dropdown-menu li a{
+		color: #232323 !important;
+	}
+	.quick-link-list{
+		padding-left: 10px !important;
+	}
+	.quick-link-list .right-quick-column{
+		width: 43% !important;
+	}
+	.footer-des > div.elementor-widget-container{
+		font-size: 13px;
+		line-height: 20px;
+		margin-top: 10px !important;
+	}
+	div#link-list-1 {
+    	width: 45%;
+	}
+	div#link-list-2 {
+    	width: 54%;
+	}
+	div#link-list-3 {
+		width: 57%;
+		margin-left: -20px;
+	}
+	div#link-list-4 {
+		width: 42%;
+	}
+	.footer-heading-1{
+		margin-left: -6%;
+	}
+	.footer-heading-2{
+		margin-left: -1%;
+	}
+	.quick-list-1{
+		padding-left: 0%;
+	}
+	.quick-list-2{
+		padding-left: 5px;
+	}
+	
+}
+.page-id-5747 ul li {
+    font-size: 14px !important;
+    font-weight: 600;
+    color: var(--color-paragraph);
+}
+@media screen and (min-width:840px) and (max-width:991px){
+	.service-box > div.elementor-widget-container{
+		min-height: 196px;
+	}
+}
+@media screen and (min-width:768px) and (max-width:849px){
+	.service-box > div.elementor-widget-container{
+		min-height: 215px;
+	}
+}
+@media screen and (max-width:767px){
+	.sale-log-mobile {
+/* 		z-index: 9999; */
+		transform: translateY(75px);
+	}
+	.page-id-5688 h3, .page-id-5747 h3 {
+		font-size: 18px;
+	}
+	.set_bg_img.ai-hero .banner-area.top-pad-80{
+		 padding-top: 26px !important;
+	}
+	.breadcrumb-area {
+		padding-top: 132px !important;
+		padding-bottom: 80px !important;
+	}
+	nav.navbar.validnavs ul.nav li.dropdown ul.dropdown-menu li a{
+		color: #232323 !important;
+	}
+	.services-section > div.elementor-widget-wrap{
+		display: flex;
+		flex-direction: column-reverse;
+	}
+	.mobile-last-service{
+		margin: auto;
+	}
+	.footer-link.quick-link {
+		margin-left: 0px;
+	}
+	.footer-link.footer-link2 {
+		margin-left: 0px;
+	}
+	.footer-img img{
+		margin-top: 10px;
+		width: 45% !important;
+	}
+	
+	.testimonial-items{
+		min-height: 340px;
+		margin-top: 30px;
+	}
+	.title-effect {
+    	margin: 0 7px !important;
+	}
+	
+	.effect2.rotate-effect img {
+		display: none;
+        right: 0px !important;
+        bottom: 37px !important;
+   	}
+	.effect1.rotate-effect img {
+		display: none;
+    	left: 0 !important;
+    	top: -47px !important;
+  	}
+	.testimonials-area .item .info::after {
+    	bottom: 148px !important;
+  	}
+	.testimonial .site-heading.text-light.text-center {
+    	margin-bottom: -35px;
+  	}
+	.service-box > div.elementor-widget-container {
+    	min-height: 210px;
+	}
+	.footer-newsletter {
+    	margin: auto;
+	}
+	div#link-list-1{
+		width: 48%;
+	}
+	div#link-list-2{
+		width: 51%;
+	}
+	div#link-list-3{
+		width: 48%;
+	}
+	.seperator-2{
+		height: 225px;
+	}
+	.quick-list-1{
+		padding-left: 8%;
+	}
+	.quick-list-1 .elementor-icon-box-icon, .quick-list-2 .elementor-icon-box-icon{
+		margin-bottom: 0px !important;
+	}
+	.social-list{
+		padding-right: 4%;
+	}
+	.quick-list-2{
+		padding-left: 0%;
+		margin-left: -3%;
+	}
+	.footer-heading-1{
+		margin-left: 0%;
+	}
+	.footer-heading-2{
+		margin-left: 0%;
+	}
+	.footer-content .footer-newsletter{
+		max-width: 90% !important;
+	}
+	.footer-content .footer-logo{
+		text-align: center !important;
+	}
+	.footer-content .footer-description{
+		text-align: center !important;
+		font-size: 13px !important;
+	}
+}
+</style>
+<!-- end Simple Custom CSS and JS -->
